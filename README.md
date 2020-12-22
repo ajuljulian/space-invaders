@@ -8,7 +8,7 @@ $ git clone git@github.com:ajuljulian/space-invaders.git; cd space-invaders
 ```
 1. activate virtual environment
 ```
-$ source ./invaders/bin/activate
+$ source ./bin/activate
 ```
 1. install dependencies
 ```
